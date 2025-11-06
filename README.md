@@ -28,7 +28,8 @@ This repository documents my progress through the **Full Stack Web Development M
 
 | Date       | Milestone                                  | Status       |
 |------------|--------------------------------------------|--------------|
-| 2025-11-4 | Started learning HTML & CSS                | In Progress  |
+| 2025-11-4-2025-11-6 | Started learning HTML                | finished  |
+| 2025-11-7-2025-11- | Started learning css                | In progress  |
 
 ## How to Explore This Repository
 - **Beginner**: These are my first steps where I learn basic web development technologies like HTML, CSS, and basic JavaScript.

@@ -1,0 +1,11 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Stack+Sans+Text:wght@200..700&display=swap');
+
+@font-face {
+      font-family: Rallomy-Regular;
+      src: url(../font/Rallomy-Regular.ttf)
+}
+
+.logo{
+      font-family: Rallomy-Regular;
+}

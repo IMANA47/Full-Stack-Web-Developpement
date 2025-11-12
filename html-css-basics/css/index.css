@@ -2,10 +2,41 @@
 @import url('https://fonts.googleapis.com/css2?family=Stack+Sans+Text:wght@200..700&display=swap');
 
 @font-face {
-      font-family: Rallomy-Regular;
-      src: url(../font/Rallomy-Regular.ttf)
+      font-family: jungle;
+      src: url(../fonts/jungle.ttf)
+}
+*{
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
 }
 
+header{
+      display: flex;
+      justify-content: space-between;
+      width: 100%;
+      height: 140px;
+      padding: 20px;
+      background: rgb(115, 167, 136, .8);
+      margin-bottom: 20px;
+}
+header a {
+ text-decoration: none;
+}
 .logo{
-      font-family: Rallomy-Regular;
+      background: url(../images/logo.png) no-repeat;
+      font-family: jungle;
+      font-size: 48px;
+      height: 380px;
+      width: 100px;
+      background-size: 100px;
+      padding-left: 100px;
+      color: #135e46;
+      text-shadow: 3px 3px black;
+      transition: .3s;
+
+}
+.logo:hover {
+      transform: translate(10px);
+      color: white;
 }

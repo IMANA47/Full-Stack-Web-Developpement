@@ -40,3 +40,20 @@ header a {
       transform: translate(10px);
       color: white;
 }
+nav {
+      display: flex;
+      width: 40%;
+      justify-content: space-around;
+      align-items: center;
+}
+nav a {
+      font-family: jungle;
+      color: #b67b65;
+      font-size: 26px;
+      text-shadow: 2px 2px black;
+}
+
+nav a:hover{
+color: white;
+transform: scale(1.2);
+}

@@ -114,7 +114,24 @@ width: 100px;
 border: none;
 cursor: pointer;
 }
-
+.scheduleTable{
+      font-family: "Roboto", sans-serif;
+      width: 25%;
+      border-collapse: collapse;
+}
+.scheduleTable td , .scheduleTable th{
+      border: 2px solid black;
+      width: 50%;
+      text-align: center;
+}
+.scheduleTable tr:nth-child(even){
+    background-color: white;  
+}
+.scheduleTable th {
+      font-size: 20px;
+      background-color: #135e46;
+      color: white;
+}
 
 footer{
       display: flex;

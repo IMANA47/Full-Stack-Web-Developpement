@@ -1,9 +1,37 @@
 html{
     background: #aaa;
+    color: #000;
 }
 body{
     background: #000;
 }
+body, .content, h1, .box1, .box2, .box3{
+    padding: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
 header{
     background: #ddd;
+}
+.content{
+    background: #eee;
+}
+h1{
+    color: green;
+}
+h3{
+    color: blue;
+    text-decoration: underline;
+}
+p{
+    color: #fff;
+}
+/* NORMAL FLOW */
+.box1{
+    background: rgb(239, 19, 7);
+}
+.box2{
+    background: rgb(149, 149, 12);
+}
+.box3{
+    background: rgb(4, 8, 203);
 }

@@ -1,0 +1,12 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Stack+Sans+Text:wght@200..700&display=swap');
+
+@font-face {
+      font-family: jungle;
+      src: url(../fonts/jungle.ttf)
+}
+*{
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+}
